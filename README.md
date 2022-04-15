@@ -2,6 +2,8 @@
 
 This project was made to learn React.
 
+![Capture d’écran 2022-04-15 à 14 39 58](https://user-images.githubusercontent.com/43042737/163571857-00841b3b-3d56-4fdc-b6d3-063e590899d9.png)
+
 I used the following Stack :
 
 - React App
